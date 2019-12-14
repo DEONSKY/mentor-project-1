@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ödev3.1", "ödev3.1\ödev3.1.vcxproj", "{4FFB0606-8DAB-4EC0-9C16-B69E9A68447E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FFB0606-8DAB-4EC0-9C16-B69E9A68447E}.Debug|x64.ActiveCfg = Debug|x64
+		{4FFB0606-8DAB-4EC0-9C16-B69E9A68447E}.Debug|x64.Build.0 = Debug|x64
+		{4FFB0606-8DAB-4EC0-9C16-B69E9A68447E}.Debug|x86.ActiveCfg = Debug|Win32
+		{4FFB0606-8DAB-4EC0-9C16-B69E9A68447E}.Debug|x86.Build.0 = Debug|Win32
+		{4FFB0606-8DAB-4EC0-9C16-B69E9A68447E}.Release|x64.ActiveCfg = Release|x64
+		{4FFB0606-8DAB-4EC0-9C16-B69E9A68447E}.Release|x64.Build.0 = Release|x64
+		{4FFB0606-8DAB-4EC0-9C16-B69E9A68447E}.Release|x86.ActiveCfg = Release|Win32
+		{4FFB0606-8DAB-4EC0-9C16-B69E9A68447E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6AD2D96-42AC-4534-B36D-2BC7AD0941C3}
+	EndGlobalSection
+EndGlobal

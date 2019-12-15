@@ -1,8 +1,6 @@
-Debug/
-x64/
+.vs/*
+Debug/*
+x64/*
 ödev.3.1.sln
-ödev3.1/Debug/
-ödev3.1/x64/
-ödev3.1/ödev3.1.vcxproj
-ödev3.1/ödev3.1.vcxproj.filters
-ödev3.1/ödev3.1.vcxproj.user
+ödev3.1/*
+!ödev3.1/ödev3.1.cpp

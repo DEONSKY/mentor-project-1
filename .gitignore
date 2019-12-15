@@ -1,6 +1,11 @@
 .vs/*
+
 Debug/*
+
 x64/*
+
 ödev.3.1.sln
+
 ödev3.1/*
+
 !ödev3.1/ödev3.1.cpp
